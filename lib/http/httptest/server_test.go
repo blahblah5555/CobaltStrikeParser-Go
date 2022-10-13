@@ -10,7 +10,7 @@ import (
 	"net"
 	"testing"
 
-	"github.com/ck00004/CobaltStrikeParser-Go/lib/http"
+	"github.com/blahblah5555/CobaltStrikeParser-Go/lib/http"
 )
 
 type newServerFunc func(http.Handler) *Server

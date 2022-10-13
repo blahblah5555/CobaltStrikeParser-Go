@@ -9,7 +9,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/ck00004/CobaltStrikeParser-Go/lib/http"
+	"github.com/blahblah5555/CobaltStrikeParser-Go/lib/http"
 )
 
 // containsDotFile reports whether name contains a path element starting with a period.

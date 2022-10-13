@@ -16,9 +16,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ck00004/CobaltStrikeParser-Go/lib/http/cgi"
+	"github.com/blahblah5555/CobaltStrikeParser-Go/lib/http/cgi"
 
-	"github.com/ck00004/CobaltStrikeParser-Go/lib/http"
+	"github.com/blahblah5555/CobaltStrikeParser-Go/lib/http"
 )
 
 // request holds the state for an in-progress request. As soon as it's complete,

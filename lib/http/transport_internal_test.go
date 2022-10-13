@@ -15,7 +15,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ck00004/CobaltStrikeParser-Go/lib/http/internal/testcert"
+	"github.com/blahblah5555/CobaltStrikeParser-Go/lib/http/internal/testcert"
 )
 
 // Issue 15446: incorrect wrapping of errors when server closes an idle connection.

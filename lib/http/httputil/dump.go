@@ -14,9 +14,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ck00004/CobaltStrikeParser-Go/lib/url"
+	"github.com/blahblah5555/CobaltStrikeParser-Go/lib/url"
 
-	"github.com/ck00004/CobaltStrikeParser-Go/lib/http"
+	"github.com/blahblah5555/CobaltStrikeParser-Go/lib/http"
 )
 
 // drainBody reads all of b to memory and then returns two equivalent

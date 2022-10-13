@@ -4,7 +4,7 @@
 
 package cookiejar_test
 
-import "github.com/ck00004/CobaltStrikeParser-Go/lib/http/cookiejar"
+import "github.com/blahblah5555/CobaltStrikeParser-Go/lib/http/cookiejar"
 
 type dummypsl struct {
 	List cookiejar.PublicSuffixList

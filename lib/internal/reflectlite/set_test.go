@@ -11,7 +11,7 @@ import (
 	"io"
 	"testing"
 
-	. "github.com/ck00004/CobaltStrikeParser-Go/lib/internal/reflectlite"
+	. "github.com/blahblah5555/CobaltStrikeParser-Go/lib/internal/reflectlite"
 )
 
 func TestImplicitSetConversion(t *testing.T) {

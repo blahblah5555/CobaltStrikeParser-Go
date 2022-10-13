@@ -5,7 +5,7 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"github.com/ck00004/CobaltStrikeParser-Go/beaconscan"
+	"github.com/blahblah5555/CobaltStrikeParser-Go/beaconscan"
 	"github.com/yeka/zip"
 )
 

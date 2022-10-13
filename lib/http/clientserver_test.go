@@ -27,13 +27,13 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ck00004/CobaltStrikeParser-Go/lib/url"
+	"github.com/blahblah5555/CobaltStrikeParser-Go/lib/url"
 
-	"github.com/ck00004/CobaltStrikeParser-Go/lib/http/httputil"
+	"github.com/blahblah5555/CobaltStrikeParser-Go/lib/http/httputil"
 
-	. "github.com/ck00004/CobaltStrikeParser-Go/lib/http"
+	. "github.com/blahblah5555/CobaltStrikeParser-Go/lib/http"
 
-	"github.com/ck00004/CobaltStrikeParser-Go/lib/http/httptest"
+	"github.com/blahblah5555/CobaltStrikeParser-Go/lib/http/httptest"
 )
 
 type clientServerTest struct {

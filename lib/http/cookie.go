@@ -12,7 +12,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ck00004/CobaltStrikeParser-Go/lib/http/internal/ascii"
+	"github.com/blahblah5555/CobaltStrikeParser-Go/lib/http/internal/ascii"
 )
 
 // A Cookie represents an HTTP cookie as sent in the Set-Cookie header of an

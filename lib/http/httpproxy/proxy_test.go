@@ -12,9 +12,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ck00004/CobaltStrikeParser-Go/lib/url"
+	"github.com/blahblah5555/CobaltStrikeParser-Go/lib/url"
 
-	"github.com/ck00004/CobaltStrikeParser-Go/lib/http/httpproxy"
+	"github.com/blahblah5555/CobaltStrikeParser-Go/lib/http/httpproxy"
 )
 
 // setHelper calls t.Helper() for Go 1.9+ (see go19_test.go) and does nothing otherwise.

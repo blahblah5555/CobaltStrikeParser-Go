@@ -12,7 +12,7 @@ import (
 	"net/textproto"
 	"sync"
 
-	"github.com/ck00004/CobaltStrikeParser-Go/lib/http"
+	"github.com/blahblah5555/CobaltStrikeParser-Go/lib/http"
 )
 
 var (

@@ -16,11 +16,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ck00004/CobaltStrikeParser-Go/lib/internal/profile"
+	"github.com/blahblah5555/CobaltStrikeParser-Go/lib/internal/profile"
 
-	"github.com/ck00004/CobaltStrikeParser-Go/lib/http"
+	"github.com/blahblah5555/CobaltStrikeParser-Go/lib/http"
 
-	"github.com/ck00004/CobaltStrikeParser-Go/lib/http/httptest"
+	"github.com/blahblah5555/CobaltStrikeParser-Go/lib/http/httptest"
 )
 
 // TestDescriptions checks that the profile names under runtime/pprof package

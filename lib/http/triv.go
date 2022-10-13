@@ -12,7 +12,7 @@ import (
 	"expvar"
 	"flag"
 	"fmt"
-	"github.com/ck00004/CobaltStrikeParser-Go/lib/http"
+	"github.com/blahblah5555/CobaltStrikeParser-Go/lib/http"
 	"io"
 	"log"
 	"os"

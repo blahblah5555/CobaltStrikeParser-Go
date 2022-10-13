@@ -9,7 +9,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/ck00004/CobaltStrikeParser-Go/beaconscan"
+	"github.com/blahblah5555/CobaltStrikeParser-Go/beaconscan"
 )
 
 var u = flag.String("u", "", "This can be a url (if started with http/s)")

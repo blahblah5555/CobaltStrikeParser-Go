@@ -23,9 +23,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ck00004/CobaltStrikeParser-Go/lib/http/internal/ascii"
-	"github.com/ck00004/CobaltStrikeParser-Go/lib/url"
-	"github.com/ck00004/uarand"
+	"github.com/blahblah5555/CobaltStrikeParser-Go/lib/http/internal/ascii"
+	"github.com/blahblah5555/CobaltStrikeParser-Go/lib/url"
+	"github.com/blahblah5555/uarand"
 )
 
 // A Client is an HTTP client. Its zero value (DefaultClient) is a

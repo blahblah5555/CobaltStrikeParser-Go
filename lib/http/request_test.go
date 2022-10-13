@@ -20,11 +20,11 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ck00004/CobaltStrikeParser-Go/lib/url"
+	"github.com/blahblah5555/CobaltStrikeParser-Go/lib/url"
 
-	. "github.com/ck00004/CobaltStrikeParser-Go/lib/http"
+	. "github.com/blahblah5555/CobaltStrikeParser-Go/lib/http"
 
-	"github.com/ck00004/CobaltStrikeParser-Go/lib/http/httptest"
+	"github.com/blahblah5555/CobaltStrikeParser-Go/lib/http/httptest"
 )
 
 func TestQuery(t *testing.T) {

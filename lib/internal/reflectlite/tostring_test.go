@@ -12,7 +12,7 @@ import (
 	"reflect"
 	"strconv"
 
-	. "github.com/ck00004/CobaltStrikeParser-Go/lib/internal/reflectlite"
+	. "github.com/blahblah5555/CobaltStrikeParser-Go/lib/internal/reflectlite"
 )
 
 // valueToString returns a textual representation of the reflection value val.

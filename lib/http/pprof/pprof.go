@@ -13,7 +13,7 @@
 //	import _ "net/http/pprof"
 //
 // If your application is not already running an http server, you
-// need to start one. Add "github.com/ck00004/CobaltStrikeParser-Go/lib/http" and "log" to your imports and
+// need to start one. Add "github.com/blahblah5555/CobaltStrikeParser-Go/lib/http" and "log" to your imports and
 // the following code to your main function:
 //
 // 	go func() {
@@ -73,11 +73,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ck00004/CobaltStrikeParser-Go/lib/url"
+	"github.com/blahblah5555/CobaltStrikeParser-Go/lib/url"
 
-	"github.com/ck00004/CobaltStrikeParser-Go/lib/internal/profile"
+	"github.com/blahblah5555/CobaltStrikeParser-Go/lib/internal/profile"
 
-	"github.com/ck00004/CobaltStrikeParser-Go/lib/http"
+	"github.com/blahblah5555/CobaltStrikeParser-Go/lib/http"
 )
 
 func init() {

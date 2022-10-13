@@ -9,7 +9,7 @@ import (
 	"os"
 	"syscall"
 
-	"github.com/ck00004/CobaltStrikeParser-Go/lib/internal/poll"
+	"github.com/blahblah5555/CobaltStrikeParser-Go/lib/internal/poll"
 )
 
 func badStateFile() (*os.File, error) {

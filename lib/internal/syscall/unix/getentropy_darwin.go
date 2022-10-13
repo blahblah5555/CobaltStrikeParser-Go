@@ -8,7 +8,7 @@
 package unix
 
 import (
-	"github.com/ck00004/CobaltStrikeParser-Go/lib/internal/abi"
+	"github.com/blahblah5555/CobaltStrikeParser-Go/lib/internal/abi"
 	"syscall"
 	"unsafe"
 )

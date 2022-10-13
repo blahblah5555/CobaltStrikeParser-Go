@@ -17,7 +17,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ck00004/CobaltStrikeParser-Go/lib/url"
+	"github.com/blahblah5555/CobaltStrikeParser-Go/lib/url"
 )
 
 func TestForeachHeaderElement(t *testing.T) {
@@ -119,7 +119,7 @@ func TestOmitHTTP2(t *testing.T) {
 	}
 	t.Parallel()
 	goTool := testenv.GoToolPath(t)
-	out, err := exec.Command(goTool, "test", "-short", "-tags=nethttpomithttp2", "github.com/ck00004/CobaltStrikeParser-Go/lib/http").CombinedOutput()
+	out, err := exec.Command(goTool, "test", "-short", "-tags=nethttpomithttp2", "github.com/blahblah5555/CobaltStrikeParser-Go/lib/http").CombinedOutput()
 	if err != nil {
 		t.Fatalf("go test -short failed: %v, %s", err, out)
 	}
@@ -131,7 +131,7 @@ func TestOmitHTTP2(t *testing.T) {
 func TestOmitHTTP2Vet(t *testing.T) {
 	t.Parallel()
 	goTool := testenv.GoToolPath(t)
-	out, err := exec.Command(goTool, "vet", "-tags=nethttpomithttp2", "github.com/ck00004/CobaltStrikeParser-Go/lib/http").CombinedOutput()
+	out, err := exec.Command(goTool, "vet", "-tags=nethttpomithttp2", "github.com/blahblah5555/CobaltStrikeParser-Go/lib/http").CombinedOutput()
 	if err != nil {
 		t.Fatalf("go vet failed: %v, %s", err, out)
 	}

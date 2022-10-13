@@ -12,7 +12,7 @@ import (
 	"testing"
 	"unsafe"
 
-	"github.com/ck00004/CobaltStrikeParser-Go/lib/internal/fmtsort"
+	"github.com/blahblah5555/CobaltStrikeParser-Go/lib/internal/fmtsort"
 )
 
 var compareTests = [][]reflect.Value{

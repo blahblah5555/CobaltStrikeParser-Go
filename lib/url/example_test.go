@@ -10,7 +10,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/ck00004/CobaltStrikeParser-Go/lib/url"
+	"github.com/blahblah5555/CobaltStrikeParser-Go/lib/url"
 )
 
 func ExampleValues() {

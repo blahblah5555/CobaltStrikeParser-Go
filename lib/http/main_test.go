@@ -15,7 +15,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ck00004/CobaltStrikeParser-Go/lib/http"
+	"github.com/blahblah5555/CobaltStrikeParser-Go/lib/http"
 )
 
 var quietLog = log.New(io.Discard, "", 0)

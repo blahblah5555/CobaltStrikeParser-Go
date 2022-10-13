@@ -9,7 +9,7 @@ package httputil
 import (
 	"io"
 
-	"github.com/ck00004/CobaltStrikeParser-Go/lib/http/internal"
+	"github.com/blahblah5555/CobaltStrikeParser-Go/lib/http/internal"
 )
 
 // NewChunkedReader returns a new chunkedReader that translates the data read from r

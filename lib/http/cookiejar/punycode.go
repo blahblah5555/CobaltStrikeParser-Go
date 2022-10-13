@@ -11,7 +11,7 @@ import (
 	"strings"
 	"unicode/utf8"
 
-	"github.com/ck00004/CobaltStrikeParser-Go/lib/http/internal/ascii"
+	"github.com/blahblah5555/CobaltStrikeParser-Go/lib/http/internal/ascii"
 )
 
 // These parameter values are specified in section 5.

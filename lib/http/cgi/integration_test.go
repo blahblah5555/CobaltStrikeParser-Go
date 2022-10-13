@@ -19,10 +19,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ck00004/CobaltStrikeParser-Go/lib/url"
+	"github.com/blahblah5555/CobaltStrikeParser-Go/lib/url"
 
-	"github.com/ck00004/CobaltStrikeParser-Go/lib/http"
-	"github.com/ck00004/CobaltStrikeParser-Go/lib/http/httptest"
+	"github.com/blahblah5555/CobaltStrikeParser-Go/lib/http"
+	"github.com/blahblah5555/CobaltStrikeParser-Go/lib/http/httptest"
 )
 
 // This test is a CGI host (testing host.go) that runs its own binary

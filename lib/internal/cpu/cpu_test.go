@@ -12,7 +12,7 @@ import (
 	"strings"
 	"testing"
 
-	. "github.com/ck00004/CobaltStrikeParser-Go/lib/internal/cpu"
+	. "github.com/blahblah5555/CobaltStrikeParser-Go/lib/internal/cpu"
 )
 
 func TestMinimalFeatures(t *testing.T) {

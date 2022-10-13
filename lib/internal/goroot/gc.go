@@ -13,7 +13,7 @@ import (
 	"strings"
 	"sync"
 
-	exec "github.com/ck00004/CobaltStrikeParser-Go/lib/internal/execabs"
+	exec "github.com/blahblah5555/CobaltStrikeParser-Go/lib/internal/execabs"
 )
 
 // IsStandardPackage reports whether path is a standard package,

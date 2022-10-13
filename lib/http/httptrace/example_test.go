@@ -8,9 +8,9 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/ck00004/CobaltStrikeParser-Go/lib/http/httptrace"
+	"github.com/blahblah5555/CobaltStrikeParser-Go/lib/http/httptrace"
 
-	"github.com/ck00004/CobaltStrikeParser-Go/lib/http"
+	"github.com/blahblah5555/CobaltStrikeParser-Go/lib/http"
 )
 
 func Example() {

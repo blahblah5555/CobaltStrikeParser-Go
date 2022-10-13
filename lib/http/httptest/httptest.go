@@ -12,7 +12,7 @@ import (
 	"io"
 	"strings"
 
-	"github.com/ck00004/CobaltStrikeParser-Go/lib/http"
+	"github.com/blahblah5555/CobaltStrikeParser-Go/lib/http"
 )
 
 // NewRequest returns a new incoming server Request, suitable

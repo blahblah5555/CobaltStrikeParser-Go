@@ -23,12 +23,12 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/ck00004/CobaltStrikeParser-Go/lib/url"
-	urlpkg "github.com/ck00004/CobaltStrikeParser-Go/lib/url"
+	"github.com/blahblah5555/CobaltStrikeParser-Go/lib/url"
+	urlpkg "github.com/blahblah5555/CobaltStrikeParser-Go/lib/url"
 
-	"github.com/ck00004/CobaltStrikeParser-Go/lib/http/httptrace"
+	"github.com/blahblah5555/CobaltStrikeParser-Go/lib/http/httptrace"
 
-	"github.com/ck00004/CobaltStrikeParser-Go/lib/http/internal/ascii"
+	"github.com/blahblah5555/CobaltStrikeParser-Go/lib/http/internal/ascii"
 
 	"golang.org/x/net/idna"
 )

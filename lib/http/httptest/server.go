@@ -18,9 +18,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ck00004/CobaltStrikeParser-Go/lib/http/internal/testcert"
+	"github.com/blahblah5555/CobaltStrikeParser-Go/lib/http/internal/testcert"
 
-	"github.com/ck00004/CobaltStrikeParser-Go/lib/http"
+	"github.com/blahblah5555/CobaltStrikeParser-Go/lib/http"
 )
 
 // A Server is an HTTP server listening on a system-chosen port on the

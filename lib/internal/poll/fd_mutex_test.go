@@ -11,7 +11,7 @@ import (
 	"testing"
 	"time"
 
-	. "github.com/ck00004/CobaltStrikeParser-Go/lib/internal/poll"
+	. "github.com/blahblah5555/CobaltStrikeParser-Go/lib/internal/poll"
 )
 
 func TestMutexLock(t *testing.T) {

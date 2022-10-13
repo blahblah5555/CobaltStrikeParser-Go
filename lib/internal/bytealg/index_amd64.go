@@ -4,7 +4,7 @@
 
 package bytealg
 
-import "github.com/ck00004/CobaltStrikeParser-Go/lib/internal/cpu"
+import "github.com/blahblah5555/CobaltStrikeParser-Go/lib/internal/cpu"
 
 const MaxBruteForce = 64
 

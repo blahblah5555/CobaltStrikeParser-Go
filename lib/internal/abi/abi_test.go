@@ -11,7 +11,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ck00004/CobaltStrikeParser-Go/lib/internal/abi"
+	"github.com/blahblah5555/CobaltStrikeParser-Go/lib/internal/abi"
 )
 
 func TestFuncPC(t *testing.T) {

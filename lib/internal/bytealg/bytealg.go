@@ -7,10 +7,10 @@ package bytealg
 import (
 	"unsafe"
 
-	"github.com/ck00004/CobaltStrikeParser-Go/lib/internal/cpu"
+	"github.com/blahblah5555/CobaltStrikeParser-Go/lib/internal/cpu"
 )
 
-// Offsets into github.com/ck00004/CobaltStrikeParser-Go/lib/internal/cpu records for use in assembly.
+// Offsets into github.com/blahblah5555/CobaltStrikeParser-Go/lib/internal/cpu records for use in assembly.
 const (
 	offsetX86HasSSE2   = unsafe.Offsetof(cpu.X86.HasSSE2)
 	offsetX86HasSSE42  = unsafe.Offsetof(cpu.X86.HasSSE42)

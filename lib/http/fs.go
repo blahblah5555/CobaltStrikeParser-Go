@@ -22,7 +22,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ck00004/CobaltStrikeParser-Go/lib/url"
+	"github.com/blahblah5555/CobaltStrikeParser-Go/lib/url"
 )
 
 // A Dir implements FileSystem using the native file system restricted to a

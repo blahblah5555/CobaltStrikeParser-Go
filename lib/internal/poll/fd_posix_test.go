@@ -11,7 +11,7 @@ import (
 	"io"
 	"testing"
 
-	. "github.com/ck00004/CobaltStrikeParser-Go/lib/internal/poll"
+	. "github.com/blahblah5555/CobaltStrikeParser-Go/lib/internal/poll"
 )
 
 var eofErrorTests = []struct {

@@ -5,7 +5,7 @@
 package http
 
 import (
-	"github.com/ck00004/CobaltStrikeParser-Go/lib/url"
+	"github.com/blahblah5555/CobaltStrikeParser-Go/lib/url"
 )
 
 // A CookieJar manages storage and use of cookies in HTTP requests.

@@ -14,7 +14,7 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/ck00004/CobaltStrikeParser-Go/lib/internal/nettrace"
+	"github.com/blahblah5555/CobaltStrikeParser-Go/lib/internal/nettrace"
 )
 
 // unique type to prevent assignment.

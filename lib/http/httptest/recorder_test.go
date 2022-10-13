@@ -9,7 +9,7 @@ import (
 	"io"
 	"testing"
 
-	"github.com/ck00004/CobaltStrikeParser-Go/lib/http"
+	"github.com/blahblah5555/CobaltStrikeParser-Go/lib/http"
 )
 
 func TestRecorder(t *testing.T) {
